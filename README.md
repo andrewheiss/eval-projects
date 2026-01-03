@@ -23,14 +23,28 @@ Each is in its own repository so it's easier to (1) make copies in the future an
 - Run `quarto::quarto_render()` inside `build_data.R`
 
 
-## Exercise repositories
+## Project repositories
 
-### Exercises
+### Problem sets
 
 - <https://github.com/andrewheiss/eval-projects_01-introduction>
+- <https://github.com/andrewheiss/eval-projects_02-regression>
+- <https://github.com/andrewheiss/eval-projects_03-rcts-ipw>
+- <https://github.com/andrewheiss/eval-projects_04-diff-diff-1>
+- <https://github.com/andrewheiss/eval-projects_05-diff-diff-2>
+- <https://github.com/andrewheiss/eval-projects_06-rdd>
+- <https://github.com/andrewheiss/eval-projects_07-iv>
+- <https://github.com/andrewheiss/eval-projects_08-all-together>
+- <https://github.com/andrewheiss/eval-projects_09-synthetic-data>
 
+### Evaluation assignments
 
-### Projects
+- <https://github.com/andrewheiss/eval-projects_eval-01-background>
+- <https://github.com/andrewheiss/eval-projects_eval-02-measurement>
+- <https://github.com/andrewheiss/eval-projects_eval-03-causal-model>
+- <https://github.com/andrewheiss/eval-projects_eval-04-threats-validity>
+
+### Final project
 
 - <https://github.com/andrewheiss/eval-projects_final-project>
 
