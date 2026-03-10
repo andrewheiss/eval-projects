@@ -44,6 +44,10 @@ Each is in its own repository so it's easier to (1) make copies in the future an
 - <https://github.com/andrewheiss/eval-projects_eval-03-causal-model>
 - <https://github.com/andrewheiss/eval-projects_eval-04-threats-validity>
 
+### Exams
+
+- - <https://github.com/andrewheiss/eval-projects_01-exam> (private)
+
 ### Final project
 
 - <https://github.com/andrewheiss/eval-projects_final-project>
