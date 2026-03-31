@@ -5,3 +5,5 @@
 
 .claude/
 .vscode/
+
+/.luarc.json
