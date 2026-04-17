@@ -46,7 +46,8 @@ Each is in its own repository so it's easier to (1) make copies in the future an
 
 ### Exams
 
-- - <https://github.com/andrewheiss/eval-projects_01-exam> (private)
+- <https://github.com/andrewheiss/eval-projects_01-exam> (private)
+- <https://github.com/andrewheiss/eval-projects_02-exam> (private)
 
 ### Final project
 
